@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deimosabyssin
-- 👀 I’m interested in mentor my friends to make the first steps in IT. 
+- 👀 I’m interested in mentoring my friends the first steps in IT. 
 - 🌱 I’m currently teaching git, sql, python.
 - 💞️ I’m looking to collaborate on great projects.
 - 📫 How to reach me : say "miu!"
